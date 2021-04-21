@@ -7,7 +7,7 @@ export default class Sidebar extends React.Component {
       return (
         <div
         class="sidebarOpen ? 'translate-x-0' : '-translate-x-full'"
-        class="hidden lg:block w-64 bg-gray-100 border-r w-64 px-8 py-4 overflow-auto"
+        class="hidden lg:block w-64 bg-gray-100 border-r px-8 py-4 overflow-auto"
       >
         <img src={logo} alt="logo" width="45" />
         <nav class="mt-8">
