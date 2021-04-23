@@ -7,9 +7,7 @@ export default class Header extends React.Component {
         <div class="flex-shrink-0 border-b-2 border-gray-200">
           <header class="px-6">
             <div class="flex justify-between items-center border-gray-200 py-3">
-              <div class="flex-1 flex">
-
-              </div>
+              <div class="flex-1 flex"></div>
 
               <div class="flex items-center">
                 <button>

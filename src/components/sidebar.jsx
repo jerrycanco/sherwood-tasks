@@ -63,7 +63,7 @@ export default class Sidebar extends React.Component {
             <a href="#" class="flex justify-between items-center rounded-lg px-3 py-2">
               <span class="text-sm font-medium text-gray-600">Charlie</span>
             </a>
-            <a href="#" class="flex justify-between items-center rounded-lg px-3 py-2">
+            <a href="https://objcdc9/id:BQ22871788/document/versions/published" class="flex justify-between items-center rounded-lg px-3 py-2">
               <span class="text-sm font-medium text-gray-600">Delta</span>
             </a>
           </div>
