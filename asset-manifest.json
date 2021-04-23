@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/sherwood-tasks/static/css/main.d5c562a8.chunk.css",
-    "main.js": "/sherwood-tasks/static/js/main.d28ff821.chunk.js",
-    "main.js.map": "/sherwood-tasks/static/js/main.d28ff821.chunk.js.map",
+    "main.js": "/sherwood-tasks/static/js/main.e55b974b.chunk.js",
+    "main.js.map": "/sherwood-tasks/static/js/main.e55b974b.chunk.js.map",
     "runtime-main.js": "/sherwood-tasks/static/js/runtime-main.da0fb758.js",
     "runtime-main.js.map": "/sherwood-tasks/static/js/runtime-main.da0fb758.js.map",
-    "static/js/2.e75b620a.chunk.js": "/sherwood-tasks/static/js/2.e75b620a.chunk.js",
-    "static/js/2.e75b620a.chunk.js.map": "/sherwood-tasks/static/js/2.e75b620a.chunk.js.map",
+    "static/js/2.387df56e.chunk.js": "/sherwood-tasks/static/js/2.387df56e.chunk.js",
+    "static/js/2.387df56e.chunk.js.map": "/sherwood-tasks/static/js/2.387df56e.chunk.js.map",
     "index.html": "/sherwood-tasks/index.html",
     "static/css/main.d5c562a8.chunk.css.map": "/sherwood-tasks/static/css/main.d5c562a8.chunk.css.map",
-    "static/js/2.e75b620a.chunk.js.LICENSE.txt": "/sherwood-tasks/static/js/2.e75b620a.chunk.js.LICENSE.txt",
+    "static/js/2.387df56e.chunk.js.LICENSE.txt": "/sherwood-tasks/static/js/2.387df56e.chunk.js.LICENSE.txt",
     "static/media/logo.b614711a.svg": "/sherwood-tasks/static/media/logo.b614711a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.da0fb758.js",
-    "static/js/2.e75b620a.chunk.js",
+    "static/js/2.387df56e.chunk.js",
     "static/css/main.d5c562a8.chunk.css",
-    "static/js/main.d28ff821.chunk.js"
+    "static/js/main.e55b974b.chunk.js"
   ]
 }
